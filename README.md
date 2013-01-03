@@ -1,3 +1,4 @@
 
 
-Visit the course information Wiki page: [[Home]]
+Visit the course information [Wiki page](https://github.com/software-engineering-amsterdam/software-construction/wiki).
+
