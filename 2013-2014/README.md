@@ -4,7 +4,7 @@ Software Construction 2013-2014
 Introduction
 ------------
 
-Link to this page: 
+Link to this page on [Github](https://github.com/software-engineering-amsterdam/software-construction/tree/master/2013-2014).
 
 This page covers all relevant information concerning the course
 **Software Construction 2013-2014** in the Master Software
