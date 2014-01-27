@@ -29,33 +29,13 @@ Primary contact for this course is
 
 ### Schedule
  
- - Week 06: Introduction + Term Frequency coding
- - Week 07: Lecture Grammars and Parsing + Parser generators
- - Week 08: Lecture Domain-Specific Languages + Finding DSLs
+ - Week 06: Introduction
+ - Week 07: Grammars and Parsing
+ - Week 08: Domain-Specific Languages
  - Week 09: Language Engineering
- - Week 10: Code Quality: 
- - Week 11: Lecture Interpreters
+ - Week 10: Lecture Interpreters
+ - Week 11: Code Quality
  - Week 12: Code Smells 
-
-Workshop hours
-- Term frequency coding sprint (+ github setup)
-
-- Finding Parser generators
-
-- TDD Term Frequency (did your program change?)
-
-- Object Calisthenics Term Frequency
-
-- Chasing trade-offs: find papers on DSLs and trade-offs 
-
-- Code smell hunting
- (Cross Code Reading)
-
-- Top Refactorings: google refactorings, apply on your own code.
-  Refactoring game
-  
-- Debugging
-
 
 				   
 ### How to pass this course
@@ -105,15 +85,25 @@ The literature for this course consists of:
 - Papers in the [[Syllabus]]
 
 The papers will help you improve your programming practice. You are
-expected to be familiar with them and apply the techniques where
-meaningful.
+expected to be familiar with their content and apply the techniques
+where meaningful. If you don't understand the papers, we will not be
+able to communicate effectively.
+  
 
 Reading assignments
 -------------------
 
 The [[ReadingAssignments]] use the examples in the Styles book to test
-your understanding of the papers in the [[Syllabus]].
+your understanding of the papers in the [Syllabus](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2013-2014/Syllabus.md).
 
+The book on programming style is accompanied by a source code
+repository on Github. If you have coded the example program in a
+different language than Python in a particular style, you are invited
+to add the code to our fork of this repository:
+
+-
+  [https://github.com/software-engineering-amsterdam/exercises-in-programming-style](https://github.com/software-engineering-amsterdam/exercises-in-programming-style)
+ 
 
 
 Lab assignment: QL, a DSL for Questionnaires
