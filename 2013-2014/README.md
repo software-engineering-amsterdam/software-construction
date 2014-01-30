@@ -75,7 +75,7 @@ Required reading
 The literature for this course consists of:
 
 - "Exercises in Programming Style" (Parts I-IV, VI) by Crista Lopes 
-- Papers in the [[Syllabus]]
+- Papers in the [Syllabus](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2013-2014/Syllabus.md)
 
 The papers will help you improve your programming practice. You are
 expected to be familiar with their content and apply the techniques
