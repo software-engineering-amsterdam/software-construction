@@ -7,7 +7,7 @@
   - Robert C. Martin, _The Open-Closed Principle_, 1996, [Martin96].
 
   - D. L. Parnas, _On the criteria to be used in decomposing systems
-     into modules_ , 1972, [Parnas72]
+    into modules_ , 1972, [Parnas72]
 
   - Jonathan Aldrich, _The Power of Interoperability: Why Objects Are
     Inevitable_, Onward! Essays, 2013 [Aldrich13].
@@ -31,3 +31,5 @@
 
   - Jeff Bay, _Object Calisthenics_.
 
+  - Kent Beck, Erich Gamma, _JUnit Test Infected: Programmers Love
+    Writing Tests_, 

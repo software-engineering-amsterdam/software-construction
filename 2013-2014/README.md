@@ -11,6 +11,16 @@ This page covers all relevant information concerning the course
 Engineering, University of Amsterdam.
 
 
+Primary contact for this course is
+[Tijs van der Storm](mailto:storm@cwi.nl).
+
+
+*NB* We will actively use Twitter during this course, both for Q&A,
+ announcements and during workshops. Please make an account if you
+ haven't already, and start following
+ [@SoftwCons](https://twitter.com/SoftwCons)!
+
+
 ### Schedule
 
 Lectures and workshops will be from 9:00-11:00 on Wednesday. Lectures
@@ -20,12 +30,6 @@ about rooms see [datanose.nl](https://datanose.nl/#course[15520]). An
 iCal ICS link can be found here:
 [https://datanose.nl/course_15520.ics](https://datanose.nl/course_15520.ics).
 
-Primary contact for this course is
-[Tijs van der Storm](mailto:storm@cwi.nl).
-
-*NB* We will actively use Twitter during this course. Please make an
- account if you haven't already, and start following
- [@SoftwCons](https://twitter.com/SoftwCons)!
 
 ### Schedule
  
@@ -56,6 +60,7 @@ Required knowledge:
  - Understand basic aspects of code quality (readability,
    changeability, extensibility, etc.)
  - Understand encapsulation and modular design
+
  
 How to pass this course:
 
@@ -64,18 +69,6 @@ How to pass this course:
 - Complete the reading assignments (pass/fail)
    
 
-Knowledge of and able to apply: 
-- Objects and classes
-- Higher-order functions
-- Code generators
-- Hierarchy
-- Design patterns
-- Contracts
-- Unit-tests
-- Refactoring
-
-
-   
 Required reading
 ----------------
 
@@ -88,12 +81,13 @@ The papers will help you improve your programming practice. You are
 expected to be familiar with their content and apply the techniques
 where meaningful. If you don't understand the papers, we will not be
 able to communicate effectively.
-  
+ 
+
 
 Reading assignments
 -------------------
 
-The [[ReadingAssignments]] use the examples in the Styles book to test
+The [ReadingAssignments](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2013-2014/Assignments.md) use the examples in the Styles book to test
 your understanding of the papers in the [Syllabus](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2013-2014/Syllabus.md).
 
 The book on programming style is accompanied by a source code
@@ -105,6 +99,7 @@ to add the code to our fork of this repository:
   [https://github.com/software-engineering-amsterdam/exercises-in-programming-style](https://github.com/software-engineering-amsterdam/exercises-in-programming-style)
  
 
+*NB*: the lectures are part of the material for the assignments.
 
 Lab assignment: QL, a DSL for Questionnaires
 --------------------------------------------
@@ -189,27 +184,54 @@ are well-documented on the web. Please use this information to fulfill
 the above requirements.
 
 
-
 ### Honor's track
 
 #### Object Algebras
 
+
 Use object algebras to make an extensible implementation. Show that it
 works by developing a number of language extensions (e.g., unless,
-repeat, date time values etc.), and operations: pretty print, compile. 
+repeat, date time values etc.), and operations: pretty print, compile,
+visualize. This assignment can be done individually or in pairs. 
 
 - [Bruno C.d.S. Oliveira and William R. Cook. _Extensibility for the Masses: Practical Extensibility with Object Algebras_](http://www.cs.utexas.edu/~wcook/Drafts/2012/ecoop2012.pdf)
   
 - [Bruno C.d.S. Oliveira, Tijs van der Storm,  Alex Loh and William R. Cook. 
   _Feature-Oriented Programming with Object Algebras_](http://www.cwi.nl/~storm/publications/FOPOA.pdf)
-  
 
-#### Direct manipulation
 
-Spreadsheet like interface DSL (but parse expressions) Make it direct
-manipulation and live (like spreadsheet). Note: need separate run mode
-too.
 
+#### Graphical DSL framework on top of Rascal
+
+The syntax of a DSL does not have to be textual. Sometimes a DSL is
+better represented with a graphical notation (e.g., state machines,
+network topologies, class diagrams, Petri nets etc.). The QL language
+could also be represented graphically. For instance, conditions and
+questions can be represented as nodes, with the edges between the
+nodes representing control flow. 
+
+In the honor's track you will (as a group) work on providing a
+graphical layer on top of Rascal using the Eclipse
+[Graphical Editing Framework](http://www.eclipse.org/gef/). The QL
+language will serve as an example to test the framework. This entails
+that the backend (code generation, type checking etc.) will be
+implemented in Rascal. The end goal is to support graphical editors,
+just like the Rascal IDE currently supports textual editors for DSLs.
+If the result of this project is of high enough quality we will
+integrate the code into the main line of the Rascal IDE. 
+
+A particular challenge here is how to interface GEF with Rascal. The
+suggested way to do this is to design a data type that represents
+graphical models to be displayed and edited using GEF. When the this
+model changes a value of this data type is handed back to Rascal where
+domain-specific analyses (type checking etc.) and transformations
+(e.g. code generation) can be performed. In some cases, notably
+analyses, some results need to be communicated back to the editor to
+support services like error marking or refactorings. 
+
+Another challenge is how to separate presentation aspects (e.g. box
+shapes, fonts, line styles etc.) from the semantic and structural
+aspect of a DSL. 
 
 
 ### Time table for the the lab assignment
