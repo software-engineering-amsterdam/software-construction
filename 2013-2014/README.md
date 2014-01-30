@@ -192,6 +192,14 @@ understanding of the parser technology involved. ANTLR, Rats! and Jacc
 are well-documented on the web. Please use this information to fulfill
 the above requirements.
 
+The assignment will be graded in two parts:
+
+- Part 1: this includes the front-end part of the language: anything
+  that is affects the user of the DSL, including parsing and
+  type/consistency checking.
+  
+- Part 2: the backend, which includes executing the QL programs as a
+  GUI application. 
 
 ### Honor's track
 
