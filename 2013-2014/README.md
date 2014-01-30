@@ -186,7 +186,7 @@ the above requirements.
 
 ### Honor's track
 
-#### Object Algebras
+#### Extensible QL with Object Algebras
 
 
 Use object algebras to make an extensible implementation. Show that it
@@ -194,10 +194,13 @@ works by developing a number of language extensions (e.g., unless,
 repeat, date time values etc.), and operations: pretty print, compile,
 visualize. This assignment can be done individually or in pairs. 
 
-- [Bruno C.d.S. Oliveira and William R. Cook. _Extensibility for the Masses: Practical Extensibility with Object Algebras_](http://www.cs.utexas.edu/~wcook/Drafts/2012/ecoop2012.pdf)
+- Bruno C.d.S. Oliveira and William R. Cook.
+  [_Extensibility for the Masses: Practical Extensibility with Object Algebras_](http://www.cs.utexas.edu/~wcook/Drafts/2012/ecoop2012.pdf),
+  ECOOP 2012
   
-- [Bruno C.d.S. Oliveira, Tijs van der Storm,  Alex Loh and William R. Cook. 
-  _Feature-Oriented Programming with Object Algebras_](http://www.cwi.nl/~storm/publications/FOPOA.pdf)
+- Bruno C.d.S. Oliveira, Tijs van der Storm,  Alex Loh and William R. Cook. 
+  [_Feature-Oriented Programming with Object Algebras_](http://www.cwi.nl/~storm/publications/FOPOA.pdf),
+  ECOOP 2013
 
 
 
