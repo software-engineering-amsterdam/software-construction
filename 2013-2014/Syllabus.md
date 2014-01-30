@@ -33,3 +33,48 @@
 
   - Kent Beck, Erich Gamma, _JUnit Test Infected: Programmers Love
     Writing Tests_, 
+
+   
+[RittelWebber84]: http://www.uctc.net/mwebber/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf
+[BaldwinClark06]: http://homepages.cwi.nl/~storm/teaching/reader/BaldwinClark06.pdf
+[Simon62]: http://ecoplexity.org/files/uploads/Simon.pdf
+[Spolsky02]: http://www.joelonsoftware.com/articles/LeakyAbstractions.html
+[Martin96]: http://jonah.cs.elon.edu/sduvall2/courses/csc420/2012fall/readings/OpenClosed.pdf
+
+[Ungar91]: http://cs.au.dk/~hosc/local/LaSC-4-3-pp223-242.pdf
+[Gabriel08]: http://www.dreamsongs.com/Files/DesignedAsDesigner.pdf
+[Noble97]: http://www.laputan.org/pub/patterns/noble/noble.pdf
+[Parnas72]: http://dx.doi.org/10.1145/361598.361623
+[Hughes89]: http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf
+[Dijkstra65]: http://dx.doi.org/10.1145%2F363095.363143
+[Dijkstra65ewd]: http://www.cs.utexas.edu/users/EWD/ewd01xx/EWD196.PDF
+[JohnsonFoote88]: http://www.laputan.org/drc.html
+[WirfsBrock]: http://www.wirfs-brock.com/PDFs/How%20Designs%20Differ.pdf
+[FooteYoder99]: http://www.laputan.org/pub/foote/mud.pdf
+[Steimann06]: http://doi.acm.org/10.1145/1167473.1167514
+[NobleBiddle02]: http://www.mcs.vuw.ac.nz/comp/Publications/archive/CS-TR-02/CS-TR-02-9.pdf
+[Cook09]:    http://homepages.cwi.nl/~storm/teaching/reader/Cook09.pdf
+[Norvig96]:  http://norvig.com/design-patterns/
+[Biggerstaff94]: http://homepages.cwi.nl/~storm/teaching/reader/Biggerstaff94.pdf
+[PeytonJones07]: http://homepages.cwi.nl/~storm/teaching/reader/PeytonJones07.pdf
+[CantrillBonwick08]: http://homepages.cwi.nl/~storm/teaching/reader/CantrillBonwick08.pdf
+[Fowler05]: http://homepages.cwi.nl/~storm/teaching/reader/Fowler05.pdf
+[HannemannKiczales02]: http://homepages.cwi.nl/~storm/teaching/reader/HannemannKiczales02.pdf
+[MernikEtAl05]: http://homepages.cwi.nl/~storm/teaching/reader/MernikEtAl05.pdf
+[BentleyEtAl86]: http://homepages.cwi.nl/~storm/teaching/reader/BentleyEtAl86.pdf
+[Fowler07]: http://homepages.cwi.nl/~storm/teaching/reader/Fowler07.pdf
+[Knuth84]: http://homepages.cwi.nl/~storm/teaching/reader/Knuth84.pdf
+[LieberherrHolland89]: http://homepages.cwi.nl/~storm/teaching/reader/LieberherrHolland89.pdf
+[Dijkstra68]: http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf
+[Lieberman86]: http://homepages.cwi.nl/~storm/teaching/reader/Lieberman86.pdf
+[Knuth74]: http://homepages.cwi.nl/~storm/teaching/reader/Knuth74.pdf
+[KiczalesEtAl97]: http://homepages.cwi.nl/~storm/teaching/reader/KiczalesEtAl97.pdf
+[Meyer92]: http://homepages.cwi.nl/~storm/teaching/reader/Meyer92.pdf
+[NobleFoote02]: http://homepages.cwi.nl/~storm/teaching/reader/NobleFoote02.pdf
+[JezequelMeyer97]: http://homepages.cwi.nl/~storm/teaching/reader/JezequelMeyer97.pdf
+[FilmanFriedman00]: http://homepages.cwi.nl/~storm/teaching/reader/FilmanFriedman00.pdf
+[CascavalEtAl08]: http://homepages.cwi.nl/~storm/teaching/reader/CascavalEtAl08.pdf
+[Neighbors89]: http://homepages.cwi.nl/~storm/teaching/reader/Neighbors89.pdf
+[Liskov87]: http://dx.doi.org/10.1145/62139.62141
+
+

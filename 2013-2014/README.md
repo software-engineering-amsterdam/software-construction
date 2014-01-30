@@ -27,12 +27,9 @@ Lectures and workshops will be from 9:00-11:00 on Wednesday. Lectures
 will be given by Tijs van der Storm and. Practical course will be on
 Wednesday from 11:00 to 17:00 and Thursdays the whole day. For details
 about rooms see [datanose.nl](https://datanose.nl/#course[15520]). An
-iCal ICS link can be found here:
+Cal ICS link can be found here:
 [https://datanose.nl/course_15520.ics](https://datanose.nl/course_15520.ics).
 
-
-### Schedule
- 
  - Week 06: Introduction
  - Week 07: Grammars and Parsing
  - Week 08: Domain-Specific Languages
@@ -40,6 +37,18 @@ iCal ICS link can be found here:
  - Week 10: Lecture Interpreters
  - Week 11: Code Quality
  - Week 12: Code Smells 
+
+##### Deadlines
+
+Lab assignment:
+
+- Part 1: February 26th
+- Part 2: March 19th
+
+Reading assignments:
+
+- Part 1: February 24th
+- Part 2: March 17th
 
 				   
 ### How to pass this course
@@ -237,18 +246,16 @@ shapes, fonts, line styles etc.) from the semantic and structural
 aspect of a DSL. 
 
 
-### Time table for the the lab assignment
+### Time table for the lab assignment
 
 There are two grading moments of the lab assignment (see above) which
 correspond to parts of the assignment:
 
 - Part 1 (Front end): the frontend covers all aspects visible to the
-  users of the DSL: parsing, checking, and in case of the Rascal
-  variants, IDE support.
+  users of the DSL: parsing, checking.
   
 - Part 2 (Back end): the back end includes are aspects related to
-  running QL programs. In the Java variant this is the interpreter, in
-  the Rascal variants this is the compiler/codegenerator. 
+  running QL programs. In the Java variant this is the interpreter.
 
 
 ### What we look for when grading your code
@@ -376,56 +383,4 @@ projects.
 **IMPORTANT:** Remember this is a single, shared Github repository, I
   expect everyone to act responsibly and try not to break the
   repository for everyone else, nor mess with anyone else's files. 
-
-### Deadlines
-
-- Part 1 (front-end)
-- Part 2 (back-end)
-- Part 2 1-day part-time students: 4th of March, 2013
-- Part 2 "herkansing" (max grade = 8): 4th of March, 2013
-
-
-   
-[RittelWebber84]: http://www.uctc.net/mwebber/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf
-[BaldwinClark06]: http://homepages.cwi.nl/~storm/teaching/reader/BaldwinClark06.pdf
-[Simon62]: http://ecoplexity.org/files/uploads/Simon.pdf
-[Spolsky02]: http://www.joelonsoftware.com/articles/LeakyAbstractions.html
-[Martin96]: http://jonah.cs.elon.edu/sduvall2/courses/csc420/2012fall/readings/OpenClosed.pdf
-
-[Ungar91]: http://cs.au.dk/~hosc/local/LaSC-4-3-pp223-242.pdf
-[Gabriel08]: http://www.dreamsongs.com/Files/DesignedAsDesigner.pdf
-[Noble97]: http://www.laputan.org/pub/patterns/noble/noble.pdf
-[Parnas72]: http://dx.doi.org/10.1145/361598.361623
-[Hughes89]: http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf
-[Dijkstra65]: http://dx.doi.org/10.1145%2F363095.363143
-[Dijkstra65ewd]: http://www.cs.utexas.edu/users/EWD/ewd01xx/EWD196.PDF
-[JohnsonFoote88]: http://www.laputan.org/drc.html
-[WirfsBrock]: http://www.wirfs-brock.com/PDFs/How%20Designs%20Differ.pdf
-[FooteYoder99]: http://www.laputan.org/pub/foote/mud.pdf
-[Steimann06]: http://doi.acm.org/10.1145/1167473.1167514
-[NobleBiddle02]: http://www.mcs.vuw.ac.nz/comp/Publications/archive/CS-TR-02/CS-TR-02-9.pdf
-[Cook09]:    http://homepages.cwi.nl/~storm/teaching/reader/Cook09.pdf
-[Norvig96]:  http://norvig.com/design-patterns/
-[Biggerstaff94]: http://homepages.cwi.nl/~storm/teaching/reader/Biggerstaff94.pdf
-[PeytonJones07]: http://homepages.cwi.nl/~storm/teaching/reader/PeytonJones07.pdf
-[CantrillBonwick08]: http://homepages.cwi.nl/~storm/teaching/reader/CantrillBonwick08.pdf
-[Fowler05]: http://homepages.cwi.nl/~storm/teaching/reader/Fowler05.pdf
-[HannemannKiczales02]: http://homepages.cwi.nl/~storm/teaching/reader/HannemannKiczales02.pdf
-[MernikEtAl05]: http://homepages.cwi.nl/~storm/teaching/reader/MernikEtAl05.pdf
-[BentleyEtAl86]: http://homepages.cwi.nl/~storm/teaching/reader/BentleyEtAl86.pdf
-[Fowler07]: http://homepages.cwi.nl/~storm/teaching/reader/Fowler07.pdf
-[Knuth84]: http://homepages.cwi.nl/~storm/teaching/reader/Knuth84.pdf
-[LieberherrHolland89]: http://homepages.cwi.nl/~storm/teaching/reader/LieberherrHolland89.pdf
-[Dijkstra68]: http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf
-[Lieberman86]: http://homepages.cwi.nl/~storm/teaching/reader/Lieberman86.pdf
-[Knuth74]: http://homepages.cwi.nl/~storm/teaching/reader/Knuth74.pdf
-[KiczalesEtAl97]: http://homepages.cwi.nl/~storm/teaching/reader/KiczalesEtAl97.pdf
-[Meyer92]: http://homepages.cwi.nl/~storm/teaching/reader/Meyer92.pdf
-[NobleFoote02]: http://homepages.cwi.nl/~storm/teaching/reader/NobleFoote02.pdf
-[JezequelMeyer97]: http://homepages.cwi.nl/~storm/teaching/reader/JezequelMeyer97.pdf
-[FilmanFriedman00]: http://homepages.cwi.nl/~storm/teaching/reader/FilmanFriedman00.pdf
-[CascavalEtAl08]: http://homepages.cwi.nl/~storm/teaching/reader/CascavalEtAl08.pdf
-[Neighbors89]: http://homepages.cwi.nl/~storm/teaching/reader/Neighbors89.pdf
-[Liskov87]: http://dx.doi.org/10.1145/62139.62141
-
 
