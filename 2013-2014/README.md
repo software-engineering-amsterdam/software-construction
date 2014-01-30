@@ -105,10 +105,10 @@ Lab assignment: QL, a DSL for Questionnaires
 --------------------------------------------
 
 The lab assignment is based on the Language Workbench Challenge 2013
-([LWC'13](http://www.languageworkbenches.net/index.php?title=LWC_2013)).
+([LWC'13](http://www.languageworkbenches.net/past-editions/)).
 The goal of that assignment is to build a DSL for questionnaires
 (called QL): simple forms with conditions and computed values. See
-[this document](http://www.languageworkbenches.net/images/5/53/Ql.pdf)
+[this document](http://www.languageworkbenches.net/wp-content/uploads/2013/11/Ql.pdf)
 for more information.
 
 Check list of required features that *you* will show that work
