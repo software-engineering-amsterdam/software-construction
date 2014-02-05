@@ -158,13 +158,13 @@ dependency (all in good measure).
 
 As to programming language, you may choose any of the following
 languages: Java, C#, Javascript, Haskell, Scala, Clojure, Erlang,
-Smalltalk, Ruby, Python, Go, Dart. Feel free to take the opportunity
-to learn a new language, but be aware that your code will be graded as
-if you're proficient in it and aware of idiomatic coding styles. For
-Java we provide grammar skeleton code for the parser generators ANTLR,
-Jacc and Rats! These grammars are *incomplete*. You may copy one of
-the skeleton projects and complete it by adding the following
-features:
+Smalltalk, Ruby, Python, Go, Dart, Objective-C. Feel free to take the
+opportunity to learn a new language, but be aware that your code will
+be graded as if you're proficient in it and aware of idiomatic coding
+styles. For Java we provide grammar skeleton code for the parser
+generators ANTLR, Jacc and Rats! These grammars are *incomplete*. You
+may copy one of the skeleton projects and complete it by adding the
+following features:
 
 - Syntax for booleans, string literals. Don't forget to take care of
   keyword reservation: true and false should be parsed as boolean
