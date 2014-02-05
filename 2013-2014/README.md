@@ -366,8 +366,8 @@ To start with one of the skeleton projects copy the contents of one of
 the prototype projects into your private directory. E.g., on Unix-like
 machines:
 
-> cd my-user-dir
-> cp -r prototypes/QLJava/* .
+> cd my-user-dir <br>
+> cp -r ../prototypes/QLJava/* .
      
 **IMPORTANT:** You are **required** to use Github. You should also
 commit **regularly**: NO huge final commit before the deadline.
