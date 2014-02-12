@@ -376,8 +376,7 @@ commit **regularly**: NO huge final commit before the deadline.
 _individually_. We will use clone detection tools to detect
 plagiarism.
 
-**IMPORTANT:** You are required to use Eclipse for the skeleton
-projects.
+**IMPORTANT:** The skeleton projects are setup to be used with Eclipse. 
 
 **IMPORTANT:** Remember this is a single, shared Github repository, I
   expect everyone to act responsibly and try not to break the
