@@ -30,8 +30,8 @@ about rooms see [datanose.nl](https://datanose.nl/#course[15520]). An
 Cal ICS link can be found here:
 [https://datanose.nl/course_15520.ics](https://datanose.nl/course_15520.ics).
 
- - Week 06: Introduction
- - Week 07: Grammars and Parsing
+ - Week 06: Introduction [Slides](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2013-2014/Introduction.pdf)
+ - Week 07: Grammars and Parsing [Slides](intro-parsing.pdf)
  - Week 08: Domain-Specific Languages
  - Week 09: Language Engineering
  - Week 10: Lecture Interpreters
