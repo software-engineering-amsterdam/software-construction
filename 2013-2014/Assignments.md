@@ -51,7 +51,7 @@ Write tests which check that:
 - Stop-words are not counted in the distribution
 - The program only prints out the top N words
 - Multiple occurrences of same word in different capitalizations are
-  counted individually.
+  counted as occurences of the same single word.
 - The words are printed by decreasing order
 
 Pick a style that's easy to test and argue *why* this is the case.
