@@ -32,11 +32,11 @@ Cal ICS link can be found here:
 
  - Week 06: Introduction [Slides](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2013-2014/Introduction.pdf)
  - Week 07: Grammars and Parsing [Slides](intro-parsing.pdf)
- - Week 08: Domain-Specific Languages
- - Week 09: Language Engineering
- - Week 10: Lecture Interpreters
- - Week 11: Code Quality
- - Week 12: Code Smells 
+ - Week 08: Domain-Specific Languages [Slides](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2013-2014/DSLs.pdf) 
+ - Week 09: Examples of "bad" code [Slides](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2013-2014/Capita.pdf) 
+ - Week 10: Here's looking at you (Slides lost...)
+ - Week 11: Code smell and refactoring dojo (No slides, you can buy the cue cards at [QWAN](http://www.qwan.eu/en/shop))
+ - Week 12: Instead of a Conclusion [Slides](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2013-2014/InsteadOfConclusion.pdf) 
 
 ##### Deadlines
 
