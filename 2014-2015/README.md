@@ -336,7 +336,6 @@ your code:
 - Simplicity (absence of code bloat and complexity; YAGNI)
 - Modularity (e.g., encapsulation, class dependencies, package structure)
 - Layout and style (indentation, comments, naming of variables etc.)
-- SOLID principles
 - Sensible (non-)use of design patterns (e.g., Visitor)
 
 More concretely, we ask you to take the following list of advice into
