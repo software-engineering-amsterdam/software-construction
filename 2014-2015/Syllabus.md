@@ -16,25 +16,26 @@
     Patterns: Abstraction and Reuse of Object-Oriented Design_, ECOOP
     93 [GammaEtAl93]
 
-  - Kent Beck and Martin Fowler, Bad Smells in Code (Chapter 3, _Refactoring_)
+  - Kent Beck and Martin Fowler, _Bad Smells in Code_ (Chapter 3, _Refactoring_)
 
   - Kent Beck, A theory of programming, (Chapter 3, _Implementation Patterns_)
 
   - Kent Beck, _Aim, fire_, IEEE Software, [Beck01]
 
-  - Jeff Bay, _Object Calisthenics_.
+  - Jeff Bay, _Object Calisthenics_, [Bay].
 
-  - Ward Cunningham, The CHECKS Pattern Language of Information Integrity, [checks]
+  - Ward Cunningham, _The CHECKS Pattern Language of Information Integrity_, [checks]
 
-  - Kernighan, Plauger, Programming Style: Examples and Counterexamples, 1974 [kernighanPlauger]
+  - Kernighan, Plauger, _Programming Style: Examples and Counterexamples_, 1974 [kernighanPlauger]
 
-  - Gregor Kiczales, John Lamping, Anurag Mendhekar, Chris Maeda, Cristina Videira Lopes, Jean-Marc Loingtier, John Irwin, Aspect-Oriented Programming, [KiczalesEtAl97]
+  - Gregor Kiczales, John Lamping, Anurag Mendhekar, Chris Maeda, Cristina Videira Lopes, Jean-Marc Loingtier, John Irwin, _Aspect-Oriented Programming_, [KiczalesEtAl97]
 
-  - James Noble, Arguments and Results, [Noble97]
+  - James Noble, _Arguments and Results_, [Noble97]
 
-  - Rebecca Wirfs-Brock, Brian Wilkerson, Object-Oriented Design: A
-    Responsibility-Driven Approach,  [WirfsBrock89]
+  - Rebecca Wirfs-Brock, Brian Wilkerson, _Object-Oriented Design: A
+    Responsibility-Driven Approach_,  [WirfsBrock89]
 
+[Bay]: http://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
 [WirfsBrock89]: http://www.znu.ac.ir/members/afsharchim/lectures/Responsibility-Driven%20Design.pdf
 [Beck01]: http://caminotics.ort.edu.uy/innovaportal/file/2032/1/aimfire.pdf
 [Noble97]: http://www.laputan.org/pub/patterns/noble/noble.pdf
