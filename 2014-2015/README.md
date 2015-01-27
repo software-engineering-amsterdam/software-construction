@@ -24,8 +24,10 @@ Primary contact for this course is
 ### Schedule
 
 Lectures and workshops will be from 9:00-11:00 on Mondays. Lectures
-will be given by Tijs van der Storm and others. The lab sessions are
-on Monday from 11:00 to 17:00 and Tuesday the whole day. For details
+will primarily be given by Tijs van der Storm. The lab sessions are
+on Monday from 11:00 to 17:00 and Tuesday the whole day. They will be supervised by Tijs and Vadim Zaytsev. 
+
+For details
 about rooms see [datanose.nl](https://datanose.nl/#course[24300]). An
 iCal ICS link can be found here:
 [https://datanose.nl/course_24300.ics](https://datanose.nl/course_24300.ics).
@@ -39,6 +41,18 @@ iCal ICS link can be found here:
  - Week 12:
  - Week 13: Exam: Thursday, March 26th, 9:00-12:00, SP H0.08.
  - Week 19: Resit: Wednesday, May 5th, 13:00-16:00, SP F1.02
+ 
+Starting in Week 7 we'll feature an interactive "hour of code" each Monday and Tuesday, at 14:00 where teams will present their code an explain their design decisions.
+These sessions are meant to help each other and provide constructive feedback.
+
+Team allocations (part-timers get preference for Mondays):
+
+ - Week 07: 
+ - Week 08: 
+ - Week 09: 
+ - Week 10: 
+ - Week 11: 
+ - Week 12:
 
 ##### Deadlines
 
@@ -71,6 +85,7 @@ Required knowledge:
 How to pass this course:
 
 - Be present at all lectures.
+- Be present during the lab sessions
 - Get a grade for your code > 5.5
 - Pass the exam > 5.5.
 
@@ -293,19 +308,21 @@ If you want to finish the lab assignment on time, you might want to stick to the
  - Week 06: Get development environment and parser generator up and running
  - Week 07: Grammar for QL + AST hierarchy.
  - Week 08: Type checker for QL + evaluator for expressions
- - Week 09: Rendering of GUI
+ - Week 09: Rendering of GUI (Start grading part 1)
  - Week 10: Grammar for QLS + AST hierarchy
  - Week 11: Type checker for QLs + start of rendering.
- - Week 12: Rendering of QLS-styled GUIs
+ - Week 12: Rendering of QLS-styled GUIs (Start grading part 2)
+ - Week 13: Additional grading + exam.
+
 
 There are two grading moments of the lab assignment (see above) which
 correspond to parts of the assignment:
 
-- Part 1 (Front end): the frontend covers all aspects visible to the
-  users of the DSL: parsing, checking.
+- Part 1 (QL): indicative grading as incentive for improvement.
   
-- Part 2 (Back end): the back end includes are aspects related to
-  running QL programs as GUI programs (i.e. the interpreter).
+- Part 2 (QL + QLS): we will review all the code and give a final grade.
+
+Before we can review your code, your team has to have filled out the pre-assessment form. Links to the forms will be posted in due course.
 
 ### Honor's track
 
