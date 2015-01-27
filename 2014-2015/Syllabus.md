@@ -84,3 +84,4 @@
 [Liskov87]: http://dx.doi.org/10.1145/62139.62141
 [WulfShaw84]: http://dx.doi.org/10.1145/953353.953355
 [Martin00]: http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf
+[GammaEtAl93]: http://www.cs.duke.edu/courses/compsci308/cps108/fall00/readings/patterns-orig.pdf
