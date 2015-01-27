@@ -1,6 +1,4 @@
 
-  - Bertrand Meyer, _Applying "Design by Contract"_, 1992, [Meyer92].
-
   - Karl J. Lieberherr, Ian M. Holland, _Assuring Good Style for
     Object-Oriented Programs_, 1989, [LieberherrHolland89].
 
@@ -22,16 +20,24 @@
 
   - Kent Beck, A theory of programming, (Chapter 3, _Implementation Patterns_)
 
-  - Kent Beck, _Aim, fire_, IEEE Software, [BeckTODO]
+  - Kent Beck, _Aim, fire_, IEEE Software, [Beck01]
 
   - Jeff Bay, _Object Calisthenics_.
 
   - Ward Cunningham, The CHECKS Pattern Language of Information Integrity, [checks]
 
   - Kernighan, Plauger, Programming Style: Examples and Counterexamples, 1974 [kernighanPlauger]
-  
 
+  - Gregor Kiczales, John Lamping, Anurag Mendhekar, Chris Maeda, Cristina Videira Lopes, Jean-Marc Loingtier, John Irwin, Aspect-Oriented Programming, [KiczalesEtAl97]
 
+  - James Noble, Arguments and Results, [Noble97]
+
+  - Rebecca Wirfs-Brock, Brian Wilkerson, Object-Oriented Design: A
+    Responsibility-Driven Approach,  [WirfsBrock89]
+
+[WirfsBrock89]: http://www.znu.ac.ir/members/afsharchim/lectures/Responsibility-Driven%20Design.pdf
+[Beck01]: http://caminotics.ort.edu.uy/innovaportal/file/2032/1/aimfire.pdf
+[Noble97]: http://www.laputan.org/pub/patterns/noble/noble.pdf
 [checks]: http://c2.com/ppr/checks.html
 [kernighanPlauger]: http://www.iai.uni-bonn.de/~manthey/SS06/Quellen/KP74.pdf
 [RittelWebber84]: http://www.uctc.net/mwebber/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf
