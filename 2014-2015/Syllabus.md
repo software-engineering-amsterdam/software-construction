@@ -8,7 +8,7 @@
   - W. Wulf and Mary Shaw, _Global variable considered harmful_, 1973,
     [WulfShaw84]. 
 
-  - John Hughes, _Why functional programming matters_, 1990 [Hughes90].
+  - John Hughes, _Why functional programming matters_, 1990 [Hughes89]
 
   - Robert C. Martin, _Design principles and design patterns_, [Martin00].
 
@@ -82,5 +82,5 @@
 [CascavalEtAl08]: http://homepages.cwi.nl/~storm/teaching/reader/CascavalEtAl08.pdf
 [Neighbors89]: http://homepages.cwi.nl/~storm/teaching/reader/Neighbors89.pdf
 [Liskov87]: http://dx.doi.org/10.1145/62139.62141
-
-
+[WulfShaw84]: http://dx.doi.org/10.1145/953353.953355
+[Martin00]: http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf
