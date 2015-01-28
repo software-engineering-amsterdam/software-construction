@@ -33,12 +33,12 @@ iCal ICS link can be found here:
 [https://datanose.nl/course_24300.ics](https://datanose.nl/course_24300.ics).
 
  - Week 06: Introduction (by Jurgen Vinju)
- - Week 07: 
- - Week 08: 
- - Week 09: 
- - Week 10: 
- - Week 11: 
- - Week 12:
+ - Week 07: Grammars and parsing
+ - Week 08: Programming styles
+ - Week 09: Code Quality and design patterns
+ - Week 10: Code smells and refactoring
+ - Week 11: Design principles
+ - Week 12: Instead of a conclusion
  - Week 13: Exam: Thursday, March 26th, 9:00-12:00, SP H0.08.
  - Week 19: Resit: Wednesday, May 5th, 13:00-16:00, SP F1.02
  
@@ -56,11 +56,7 @@ Team allocations (part-timers get preference for Mondays):
 
 ##### Deadlines
 
-Lab assignment:
-
-- Part 1: Todo
-- Part 2: Todo
-
+See the lab assignment section below.
 				   
 ### How to pass this course
 
@@ -212,6 +208,8 @@ form taxOfficeExample {
   (page/secion), what font-styles etc. are used, and what widget types
   are used.
   
+- As widget types you're supposed to support at least: slider, spinbox (for numbers), text (for numbers and strings), yesno-radios, checkbox, yesno-dropdown (for booleans).
+  
 Requirements on the implementation:
 
 - You could say QLS defines an "aspect" of questionnaires, i.e. its appearance. The challenge is to implement QLS without (invasively) changing the code pertaining to QL, and without duplicating or reimplementing the QL code. (Copying and/or duplicating is not allowed, but some changes might be needed at certain join points...). 
@@ -318,9 +316,9 @@ If you want to finish the lab assignment on time, you might want to stick to the
 There are two grading moments of the lab assignment (see above) which
 correspond to parts of the assignment:
 
-- Part 1 (QL): indicative grading as incentive for improvement.
+- Part 1 QL (Week 9): indicative grading as incentive for improvement.
   
-- Part 2 (QL + QLS): we will review all the code and give a final grade.
+- Part 2 QL + QLS (Week 12): we will review all the code and give a final grade.
 
 Before we can review your code, your team has to have filled out the pre-assessment form. Links to the forms will be posted in due course.
 
