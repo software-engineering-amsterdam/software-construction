@@ -23,9 +23,10 @@ Primary contact for this course is
 
 ### Schedule
 
-Lectures and workshops will be from 9:00-11:00 on Mondays. Lectures
-will primarily be given by Tijs van der Storm. The lab sessions are
-on Monday from 11:00 to 17:00 and Tuesday the whole day. They will be supervised by Tijs and Vadim Zaytsev. 
+Lectures and workshops will be from 9:15-11:00 (NB: 9:15!!!) on
+Mondays. Lectures will primarily be given by Tijs van der Storm. The
+lab sessions are on Monday from 11:00 to 17:00 and Tuesday the whole
+day. They will be supervised by Tijs and Vadim Zaytsev.
 
 For details
 about rooms see [datanose.nl](https://datanose.nl/#course[24300]). An
@@ -42,7 +43,13 @@ iCal ICS link can be found here:
  - Week 13: Exam: Thursday, March 26th, 9:00-12:00, SP H0.08.
  - Week 19: Resit: Wednesday, May 5th, 13:00-16:00, SP F1.02
  
-Starting in Week 7 we'll feature an interactive "hour of code" each Monday and Tuesday, at 14:00 where teams will present their code an explain their design decisions.
+Starting in Week 7 we'll feature an interactive "hour of code" each
+Monday and Tuesday where teams will present their code an explain
+their design decisions
+
+- Monday: 14:00-15:00
+- Tuesday: 9:15-10:15
+
 These sessions are meant to help each other and provide constructive feedback.
 
 Team allocations (part-timers get preference for Mondays):
