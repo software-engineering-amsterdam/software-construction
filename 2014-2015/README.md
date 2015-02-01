@@ -93,7 +93,7 @@ How to pass this course:
 - Pass the exam > 5.5.
 
 Final grade = round((Code + Exam)/2.0)
-NB: 5.5 means 6.   
+Both Code and Exam should have grade > 5.5.
 
 Required reading
 ----------------
