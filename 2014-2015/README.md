@@ -33,7 +33,7 @@ about rooms see [datanose.nl](https://datanose.nl/#course[24300]). An
 iCal ICS link can be found here:
 [https://datanose.nl/course_24300.ics](https://datanose.nl/course_24300.ics).
 
- - Week 06: Introduction (by Jurgen Vinju)
+ - Week 06: Introduction (by Jurgen Vinju) [slides](IntroductionSC2015.pdf)
  - Week 07: Grammars and parsing
  - Week 08: Programming styles
  - Week 09: Code Quality and design patterns
