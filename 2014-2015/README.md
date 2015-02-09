@@ -54,8 +54,8 @@ These sessions are meant to help each other and provide constructive feedback.
 
 Team allocations (part-timers get preference for Mondays):
 
- - Week 07: 
- - Week 08: 
+ - Week 07: Monday: Guido & Jelle / Pantellis & Santiago ; Tuesday: Guy & Bas / Dominik & Panagiotis
+ - Week 08: Monday: Geert & Kai / Sebastian & Jeff ; 
  - Week 09: 
  - Week 10: 
  - Week 11: 
