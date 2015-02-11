@@ -56,7 +56,7 @@ Team allocations (part-timers get preference for Mondays):
 
  - Week 07: Monday: Guido & Jelle / Pantellis & Santiago ; Tuesday: Guy & Bas / Dominik & Panagiotis
  - Week 08: Monday: Erik & Carla / Pim & Job ; Tuesday: Geert & Kai / Sebastian & Jeff 
- - Week 09: Monday: Kevin & Rene / Carlos Cirello ; Tuesday: 
+ - Week 09: Monday: Kevin & Rene / Carlos Cirello ; Tuesday: Theologos & Łukasz / 
  - Week 10: Monday: 
  - Week 11: 
  - Week 12:
