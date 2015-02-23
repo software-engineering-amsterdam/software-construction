@@ -36,7 +36,7 @@ iCal ICS link can be found here:
  - Week 06: Introduction (by Jurgen Vinju) [slides](SC2015-01-Introduction.pdf)
  - Week 07: Parsing with grammars [slides](SC2015-02-Parsing.pdf)
  - Week 08: Programming styles [slides](SC2015-03-ProgStyles.pdf)
- - Week 09: Code Quality and design patterns
+ - Week 09: Code Quality [slides](SC2015-04-CodeQuality.pdf)
  - Week 10: Code smells and refactoring
  - Week 11: Design principles
  - Week 12: Instead of a conclusion
