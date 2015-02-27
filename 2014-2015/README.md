@@ -40,7 +40,7 @@ iCal ICS link can be found here:
  - Week 10: Code smells and refactoring
  - Week 11: Design principles
  - Week 12: Instead of a conclusion
- - Week 13: Exam: Thursday, March 26th, 9:00-12:00, SP H0.08.
+ - Week 13: Exam: Tuesday, March 24th, 9:00-12:00,  SP H0.08.
  - Week 19: Resit: Wednesday, May 5th, 13:00-16:00, SP F1.02
  
 Starting in Week 7 we'll feature an interactive "hour of code" each
@@ -56,7 +56,7 @@ Team allocations (part-timers get preference for Mondays):
 
  - Week 07: Monday: Guido & Jelle / Pantellis & Santiago ; Tuesday: Guy & Bas / Dominik & Panagiotis
  - Week 08: Monday: Erik & Carla / Pim & Job ; Tuesday: Geert & Kai / Sebastian & Jeff 
- - Week 09: Monday: Kevin & Rene / Carlos Cirello ; Tuesday: Theologos & Łukasz / 
+ - Week 09: Monday: Kevin & Rene / Carlos Cirello ; Tuesday: Theologos & Łukasz / Leonard Punt & Kevin van Cleef
  - Week 10: Monday: Pavol & Barry / 
  - Week 11: 
  - Week 12:
