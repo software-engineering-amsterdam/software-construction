@@ -37,7 +37,7 @@ iCal ICS link can be found here:
  - Week 07: Parsing with grammars [slides](SC2015-02-Parsing.pdf)
  - Week 08: Programming styles [slides](SC2015-03-ProgStyles.pdf)
  - Week 09: Code Quality [slides](SC2015-04-CodeQuality.pdf)
- - Week 10: Code smells and refactoring
+ - Week 10: Instanceof and friends [slides](SC2015-05-Capita.pdf)
  - Week 11: Design principles
  - Week 12: Instead of a conclusion
  - Week 13: Exam: Tuesday, March 24th, 9:00-12:00,  SP H0.08.
