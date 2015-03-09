@@ -59,7 +59,7 @@ Team allocations (part-timers get preference for Mondays):
  - Week 09: Monday: Kevin & Rene / Carlos Cirello ; Tuesday: Theologos & Łukasz / Leonard Punt & Kevin van Cleef
  - Week 10: Monday: Pavol & Barry / Fabien Tesselaar ; Tuesday: Timon & Jurriaan / 
  - Week 11: 
- - Week 12: Monday: Calin & Wouter / 
+ - Week 12: Monday: Calin & Wouter / ; Tuesday: Ger & Robert / 
 
 ##### Deadlines
 
