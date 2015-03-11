@@ -57,9 +57,9 @@ Team allocations (part-timers get preference for Mondays):
  - Week 07: Monday: Guido & Jelle / Pantellis & Santiago ; Tuesday: Guy & Bas / Dominik & Panagiotis
  - Week 08: Monday: Erik & Carla / Pim & Job ; Tuesday: Geert & Kai / Sebastian & Jeff 
  - Week 09: Monday: Kevin & Rene / Carlos Cirello ; Tuesday: Theologos & Łukasz / Leonard Punt & Kevin van Cleef
- - Week 10: Monday: Pavol & Barry / Fabien Tesselaar ; Tuesday: Timon & Jurriaan
- - Week 11: Tuesday: Boryana & Nikola
- - Week 12: Monday: Calin & Wouter / ; Tuesday: Ger & Robert 
+ - Week 10: Monday: Pavol & Barry / Fabien Tesselaar ; Tuesday: Timon & Jurriaan / 
+ - Week 11: Monday:  ; Tuesday: Boryana & Nikola
+ - Week 12: Monday: Calin & Wouter / Jonatan & Daniel ; Tuesday: Ger & Robert
 
 ##### Deadlines
 
