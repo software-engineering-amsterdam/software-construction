@@ -39,7 +39,7 @@ iCal ICS link can be found here:
  - Week 09: Code Quality — [slides](SC2015-04-CodeQuality.pdf)
  - Week 10: Instanceof and friends — [slides](SC2015-05-Capita.pdf)
  - Week 11: Design principles — [slides](SC2015-06-Syllabus.pdf)
- - Week 12: Instead of a conclusion
+ - Week 12: Instead of a conclusion - [slides](SC2015-07-InsteadOfConclusion.pdf)
  - Week 13: Exam: Tuesday, March 24th, 9:00-12:00,  SP H0.08.
  - Week 19: Resit: Wednesday, May 5th, 13:00-16:00, SP F1.02
  
@@ -57,7 +57,7 @@ Team allocations (part-timers get preference for Mondays):
  - Week 07: Monday: Guido & Jelle / Pantellis & Santiago ; Tuesday: Guy & Bas / Dominik & Panagiotis
  - Week 08: Monday: Erik & Carla / Pim & Job ; Tuesday: Geert & Kai / Sebastian & Jeff 
  - Week 09: Monday: Kevin & Rene / Carlos Cirello ; Tuesday: Theologos & Łukasz / Leonard Punt & Kevin van Cleef
- - Week 10: Monday: Pavol & Barry / Fabien Tesselaar ; Tuesday: Timon & Jurriaan / 
+ - Week 10: Monday: Pavol & Barry / Fabien Tesselaar ; Tuesday: Timon  & Jurriaan / 
  - Week 11: Monday:  ; Tuesday: Boryana & Nikola
  - Week 12: Monday: Calin & Wouter / Jonatan & Daniel ; Tuesday: Ger & Robert
 
