@@ -41,7 +41,7 @@ iCal ICS link can be found here:
  - Week 11: Design principles — [slides](SC2015-06-Syllabus.pdf)
  - Week 12: Instead of a conclusion - [slides](SC2015-07-InsteadOfConclusion.pdf)
  - Week 13: Exam: Tuesday, March 24th, 9:00-12:00,  SP H0.08.
- - Week 19: Resit: Wednesday, May 5th, 13:00-16:00, SP F1.02
+ - Week 19: Resit: Wednesday, May 6th, 13:00-16:00, SP F1.02
  
 Starting in Week 7 we'll feature an interactive "hour of code" each
 Monday and Tuesday where teams will present their code an explain
