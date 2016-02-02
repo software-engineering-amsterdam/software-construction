@@ -29,9 +29,9 @@ lab sessions are on Wednesday from 11:00 to 17:00 and Thursday the whole
 day. 
 
 For details
-about rooms see [datanose.nl](https://datanose.nl/#course[24300]). An
+about rooms see [datanose.nl](https://datanose.nl/#course[37210]). An
 iCal ICS link can be found here:
-[https://datanose.nl/course_24300.ics](https://datanose.nl/course_24300.ics).
+[https://datanose.nl/course_37210.ics](https://datanose.nl/course_37210.ics).
 
  - Week 06: Introduction  
  - Week 07: Domain-specific Languages 
@@ -40,19 +40,19 @@ iCal ICS link can be found here:
  - Week 10: Instanceof and friends 
  - Week 11: Design principles 
  - Week 12: Instead of a conclusion 
- - Week 13: Exam: Tuesday, March 24th, 9:00-12:00,  SP H0.08.
- - Week 19: Resit: Wednesday, May 6th, 13:00-16:00, SP F1.02
+ - Week 13: Exam: March, 24, 9:00-12:00, C0.05
+ - Week 19: Resit: May, 11, 13:00-16:00, D1.160
  
 Starting in Week 7 we'll feature an interactive "hour of code" each
-Wednesday and Thursday where teams will present their code an explain
-their design decisions
+Wednesday and Thursday where you will present your code an explain
+your design decisions
 
 - Wednesday: 14:00-15:00
 - Thursday: 9:15-10:15
 
 These sessions are meant to help each other and provide constructive feedback.
 
-Presentation allocations (part-timers get preference for Wednesday):
+Presentation allocations
 
  - Week 07: Wednesday:  ; Thursday: 
  - Week 08: Wednesday:  ; Thursday: 
@@ -302,41 +302,26 @@ understanding of the parser technology involved. ANTLR, Rats! and Jacc
 are well-documented on the web. Please use this information to fulfill
 the above requirements.
 
-The QLS languages does not feature expressions. But your experience in developing the QL language directly feeds into the design of QLS. 
 
-
-### Time table for the lab assignment
-
-If you want to finish the lab assignment on time, you might want to stick to the following mile stones:
-
- - Week 06: Get development environment and parser generator up and running
- - Week 07: Grammar for QL + AST hierarchy.
- - Week 08: Type checker for QL + evaluator for expressions
- - Week 09: Rendering of GUI (Start grading part 1)
- - Week 10: Grammar for QLS + AST hierarchy
- - Week 11: Type checker for QLs + start of rendering.
- - Week 12: Rendering of QLS-styled GUIs (Start grading part 2)
- - Week 13: Additional grading + exam.
-
+### Grading
 
 There are two grading moments of the lab assignment (see above) which
 correspond to parts of the assignment:
 
-- Part 1 QL (Week 9): indicative grading as incentive for improvement.
+- Part 1 QL syntax + type checker (Week 9): indicative grading as incentive for improvement.
   
-- Part 2 QL + QLS (Week 12): we will review all the code and give a final grade.
+- Part 2 QL evaluator + rendering (Week 12): we will review all the code and give a final grade.
 
-Before we can review your code, your team has to have filled out the pre-assessment form. Links to the forms will be posted in due course.
+Before we can review your code, you have to have filled out the pre-assessment form. Links to the forms will be posted in due course.
 
 ### Honor's track
 
 The honor's track is a separate assignment for excellent
-students. This year's challenge is developing your own DSL.
-Talk to Tijs me if you're considering doing the Honor's track and discuss your ideas for a DSL.
+students. This year's challenge is developing your own DSL.  Talk to
+Tijs me if you're considering doing the Honor's track and discuss your
+ideas for a DSL.
 
-You will work in close collaboration with me (Tijs van der
-Storm). Depending on interest, you will work in a team, and implement
-a number language extensions (to be discussed).  
+Depending on interest and size of the project, you will work in a team.
 
 
 ### What we look for when grading your code
@@ -439,7 +424,7 @@ Each participant will have to use Github; please make an account if
 you haven't already. Then send [me](mailto:storm@cwi.nl) a note with
 your Github user name and team-name so that I can add you as a team member. After
 you have commit access, you can clone the following repository and
-start coding **in your teams's private** subdirectory.
+start coding **in your own, private** subdirectory.
 
 > [https://github.com/software-engineering-amsterdam/multi-ql](https://github.com/software-engineering-amsterdam/multi-ql).
     
@@ -453,9 +438,8 @@ machines:
 **IMPORTANT:** You are **required** to use Github. You should also
 commit **regularly**: NO huge final commit before the deadline.
 
-**IMPORTANT:** You are required to complete the lab assignment in
-teams of two. You're more than welcome to discuss and review with
-other teams, but you are not allowed to copy code. We will use clone
+**IMPORTANT:** You are required to complete the lab assignment individually. You're more than welcome to discuss and review with
+others, but you are not allowed to copy code. We will use clone
 detection tools to detect plagiarism.
 
 **IMPORTANT:** The skeleton projects are setup to be used with Eclipse. 
