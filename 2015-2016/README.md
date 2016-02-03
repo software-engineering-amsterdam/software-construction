@@ -33,7 +33,7 @@ about rooms see [datanose.nl](https://datanose.nl/#course[37210]). An
 iCal ICS link can be found here:
 [https://datanose.nl/course_37210.ics](https://datanose.nl/course_37210.ics).
 
- - Week 05: Introduction  
+ - Week 05: Introduction - [slides](SC2016-Introduction.pdf) 
  - Week 06: Domain-specific Languages 
  - Week 07: Programming styles 
  - Week 08: Code Quality 
