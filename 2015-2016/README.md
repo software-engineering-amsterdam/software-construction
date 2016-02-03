@@ -33,17 +33,17 @@ about rooms see [datanose.nl](https://datanose.nl/#course[37210]). An
 iCal ICS link can be found here:
 [https://datanose.nl/course_37210.ics](https://datanose.nl/course_37210.ics).
 
- - Week 06: Introduction  
- - Week 07: Domain-specific Languages 
- - Week 08: Programming styles 
- - Week 09: Code Quality 
- - Week 10: Instanceof and friends 
- - Week 11: Design principles 
- - Week 12: Instead of a conclusion 
- - Week 13: Exam: March, 24, 9:00-12:00, C0.05
- - Week 19: Resit: May, 11, 13:00-16:00, D1.160
+ - Week 05: Introduction  
+ - Week 06: Domain-specific Languages 
+ - Week 07: Programming styles 
+ - Week 08: Code Quality 
+ - Week 09: Instanceof and friends 
+ - Week 10: Design principles 
+ - Week 11: Instead of a conclusion 
+ - Week 12: Exam: March, 24, 9:00-12:00, C0.05
+ - Week 18: Resit: May, 11, 13:00-16:00, D1.160
  
-Starting in Week 7 we'll feature an interactive "hour of code" each
+Starting in Week 6 we'll feature an interactive "hour of code" each
 Wednesday and Thursday where you will present your code an explain
 your design decisions
 
@@ -54,12 +54,12 @@ These sessions are meant to help each other and provide constructive feedback.
 
 Presentation allocations
 
+ - Week 06: Wednesday:  ; Thursday: 
  - Week 07: Wednesday:  ; Thursday: 
  - Week 08: Wednesday:  ; Thursday: 
  - Week 09: Wednesday:  ; Thursday: 
  - Week 10: Wednesday:  ; Thursday: 
  - Week 11: Wednesday:  ; Thursday: 
- - Week 12: Wednesday:  ; Thursday: 
 
 ##### Deadlines
 
