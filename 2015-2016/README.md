@@ -35,7 +35,7 @@ iCal ICS link can be found here:
 
  - Week 05: Introduction - [slides](SC2016-Introduction.pdf) 
  - Week 06: Domain-specific Languages - [slides](SC2016-DSLs.pdf) 
- - Week 07: Programming styles 
+ - Week 07: Programming styles - [slides](SC2016-ProgStyles.pdf) 
  - Week 08: Code Quality 
  - Week 09: Instanceof and friends 
  - Week 10: Design principles 
