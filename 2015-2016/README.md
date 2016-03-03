@@ -36,8 +36,8 @@ iCal ICS link can be found here:
  - Week 05: Introduction - [slides](SC2016-Introduction.pdf) 
  - Week 06: Domain-specific Languages - [slides](SC2016-DSLs.pdf) 
  - Week 07: Programming styles - [slides](SC2016-ProgStyles.pdf) 
- - Week 08: Code Quality 
- - Week 09: Instanceof and friends 
+ - Week 08: Code Quality - [slides](SC2016-CodeQuality.pdf) 
+ - Week 09: Capita - [slides](SC2016-Captia.pdf) 
  - Week 10: Design principles 
  - Week 11: Instead of a conclusion 
  - Week 12: Exam: March, 24, 9:00-12:00, C0.05
