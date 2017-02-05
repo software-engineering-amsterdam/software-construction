@@ -1,5 +1,5 @@
 
-  - Brian Foote and Joseph Yoder, _Big Ball of Mud_, 1999 <http://www.laputan.org/mud/
+  - Brian Foote and Joseph Yoder, _Big Ball of Mud_, 1999 <http://www.laputan.org/mud/>
 
   - Karl J. Lieberherr, Ian M. Holland, _Assuring Good Style for
     Object-Oriented Programs_, 1989, [LieberherrHolland89].
