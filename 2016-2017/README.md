@@ -91,7 +91,7 @@ Required reading
 The literature for this course consists of:
 
 - "Exercises in Programming Style" (EiPS) (Parts I-IV, VI) by Crista Lopes 
-- Papers in the [Syllabus](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2015-2016/Syllabus.md)
+- Papers in the [Syllabus](https://github.com/software-engineering-amsterdam/software-construction/blob/master/2016-2017/Syllabus.md)
 
 The papers will help you improve your programming practice and make up
 most of the material for the final exam. You are expected to be
