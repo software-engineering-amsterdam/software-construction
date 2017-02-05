@@ -1,12 +1,11 @@
 
+  - Brian Foote and Joseph Yoder, _Big Ball of Mud_, 1999 <http://www.laputan.org/mud/
+
   - Karl J. Lieberherr, Ian M. Holland, _Assuring Good Style for
     Object-Oriented Programs_, 1989, [LieberherrHolland89].
 
   - D. L. Parnas, _On the criteria to be used in decomposing systems
     into modules_ , 1972, [Parnas72]
-
-  - W. Wulf and Mary Shaw, _Global variable considered harmful_, 1973,
-    [WulfShaw84]. 
 
   - John Hughes, _Why functional programming matters_, 1990 [Hughes89]
 
@@ -29,8 +28,6 @@
   - Kernighan, Plauger, _Programming Style: Examples and Counterexamples_, 1974 [kernighanPlauger]
 
   - Gregor Kiczales, John Lamping, Anurag Mendhekar, Chris Maeda, Cristina Videira Lopes, Jean-Marc Loingtier, John Irwin, _Aspect-Oriented Programming_, [KiczalesEtAl97]
-
-  - James Noble, _Arguments and Results_, [Noble97]
 
   - Rebecca Wirfs-Brock, Brian Wilkerson, _Object-Oriented Design: A
     Responsibility-Driven Approach_,  [WirfsBrock89]
