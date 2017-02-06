@@ -30,7 +30,7 @@ day.
 
 For details about rooms, see <datanose.nl>.
 
- - Week 06: Introduction 
+ - Week 06: Introduction [slides](https://github.com/software-engineering-amsterdam/software-construction/tree/master/2016-2017/Introduction.pdf)
  - Week 07: Domain-specific Languages
  - Week 08: Programming styles
  - Week 09: Code Quality
