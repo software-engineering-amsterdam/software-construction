@@ -33,10 +33,10 @@ For details about rooms, see <datanose.nl>.
  - Week 06: Introduction [[slides](https://github.com/software-engineering-amsterdam/software-construction/tree/master/2016-2017/Introduction.pdf)]
  - Week 07: Domain-specific Languages [[slides](https://github.com/software-engineering-amsterdam/software-construction/tree/master/2016-2017/DSLs.pdf)]
  - Week 08: Programming styles [[slides](https://github.com/software-engineering-amsterdam/software-construction/tree/master/2016-2017/ProgStyles.pdf)]
- - Week 09: Code Quality
- - Week 10: Capita 
- - Week 11: Design principles 
- - Week 12: Instead of a conclusion
+ - Week 09: Code Quality [[slides](https://github.com/software-engineering-amsterdam/software-construction/tree/master/2016-2017/CodeQuality.pdf)]
+ - Week 10: Capita  [[slides](https://github.com/software-engineering-amsterdam/software-construction/tree/master/2016-2017/Capita.pdf)]
+ - Week 11: Design principles [[slides](https://github.com/software-engineering-amsterdam/software-construction/tree/master/2016-2017/DesignPrinciples.pdf)]
+ - Week 12: Instead of a conclusion [[slides](https://github.com/software-engineering-amsterdam/software-construction/tree/master/2016-2017/InsteadOfAConclusion.pdf)]
  - Week 13: Exam: March, 27, 13:00-16:00, C0.02
  - Week 14: Resit: May, 15, 13:00-16:00, A1.14
  
