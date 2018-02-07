@@ -179,7 +179,7 @@ it by adding the following features:
 
 - Add tests to check your syntax extensions.
 
-- Add AST classes for the provided expression categories, and for you
+- Add AST classes for the provided expression categories, and for your
   syntactic extensions. Make sure the parser creates objects of the
   appropriate type. 
   
