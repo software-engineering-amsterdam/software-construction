@@ -172,7 +172,7 @@ it by adding the following features:
 
 - Add single-line comments (a la Java: //).
 
-- Add syntax productions for forms, questions, computed quetsions,
+- Add syntax productions for forms, questions, computed questions,
   types (int, bool, and string) and if-then and if-then-else
   statements. Use string literals for question labels. See the LWC'13
   link above for an example questionnaire. 
