@@ -37,7 +37,7 @@
 [Beck01]: http://caminotics.ort.edu.uy/innovaportal/file/2032/1/aimfire.pdf
 [Noble97]: http://www.laputan.org/pub/patterns/noble/noble.pdf
 [Cunningham]: http://c2.com/ppr/checks.html
-[KernighanPlauger]: http://www.iai.uni-bonn.de/~manthey/SS06/Quellen/KP74.pdf
+[KernighanPlauger]: https://doi.org/10.1145/356635.356641
 [RittelWebber84]: http://www.uctc.net/mwebber/Rittel+Webber+Dilemmas+General_Theory_of_Planning.pdf
 [BaldwinClark06]: http://homepages.cwi.nl/~storm/teaching/reader/BaldwinClark06.pdf
 [Simon62]: http://ecoplexity.org/files/uploads/Simon.pdf
@@ -67,7 +67,7 @@
 [BentleyEtAl86]: http://homepages.cwi.nl/~storm/teaching/reader/BentleyEtAl86.pdf
 [Fowler07]: http://homepages.cwi.nl/~storm/teaching/reader/Fowler07.pdf
 [Knuth84]: http://homepages.cwi.nl/~storm/teaching/reader/Knuth84.pdf
-[LieberherrHolland89]: http://homepages.cwi.nl/~storm/teaching/reader/LieberherrHolland89.pdf
+[LieberherrHolland89]: https://doi.org/10.1109/52.35588
 [Dijkstra68]: http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf
 [Lieberman86]: http://homepages.cwi.nl/~storm/teaching/reader/Lieberman86.pdf
 [Knuth74]: http://homepages.cwi.nl/~storm/teaching/reader/Knuth74.pdf
@@ -80,5 +80,5 @@
 [Neighbors89]: http://homepages.cwi.nl/~storm/teaching/reader/Neighbors89.pdf
 [Liskov87]: http://dx.doi.org/10.1145/62139.62141
 [WulfShaw84]: http://dx.doi.org/10.1145/953353.953355
-[Martin00]: http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf
+[Martin00]: http://mil-oss.org/resources/objectmentor_design-principles-and-design-patterns.pdf
 [GammaEtAl93]: http://www.cs.duke.edu/courses/compsci308/cps108/fall00/readings/patterns-orig.pdf
