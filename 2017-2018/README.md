@@ -15,13 +15,13 @@ Lectures and workshops will be from 9:00-11:00 on Wednesdays. Lectures will prim
 
 For details about rooms, see [datanose.nl](https://datanose.nl/#course[61106]).
 
- - Week 06: Introduction, 7 Feb, 9:00–11:00, D1.111
- - Week 07: TBA
- - Week 08: TBA
- - Week 09: TBA
- - Week 10: TBA
- - Week 11: TBA
- - Week 12: TBA
+ - Week 06: [Introduction](slides1.pdf), 7 Feb, 9:00–11:00, D1.111
+ - Week 07: TBA, 14 Feb, 9:00–11:00, D1.111
+ - Week 08: TBA, 21 Feb, 9:00–11:00, D1.111
+ - Week 09: TBA, 28 Feb, 9:00–11:00, D1.111
+ - Week 10: TBA, 7 Mar, 9:00–11:00, D1.111
+ - Week 11: TBA, 14 Mar, 9:00–11:00, D1.111
+ - Week 12: TBA, 21 Mar, 9:00–11:00, D1.111
  - Week 13: Exam: 28 March, 9:00–12:00, OMHP
  - Week 14: Reexamination: 16 May, 9:00-12:00, D1.113
  
