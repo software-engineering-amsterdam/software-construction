@@ -16,7 +16,7 @@ Lectures and workshops will be from 9:00-11:00 on Wednesdays. Lectures will prim
 For details about rooms, see [datanose.nl](https://datanose.nl/#course[61106]).
 
  - Week 06: [Introduction](slides1.pdf), 7 Feb, 9:00–11:00, D1.111
- - Week 07: TBA, 14 Feb, 9:00–11:00, D1.111
+ - Week 07: [Grammars and Parsing](slides2.pdf), 14 Feb, 9:00–11:00, D1.111
  - Week 08: TBA, 21 Feb, 9:00–11:00, D1.111
  - Week 09: TBA, 28 Feb, 9:00–11:00, D1.111
  - Week 10: TBA, 7 Mar, 9:00–11:00, D1.111
@@ -134,7 +134,7 @@ Additionally, you will implement a second DSL, called QLS: a styling language, w
    * cyclic dependencies between questions
    * duplicate labels (warning)
 
-- The language supports booleans, integers and string values.
+- The language supports booleans, integers and string values (possibly also dates and decimals).
 
 - Different data types in QL map to different (default) GUI widgets.   
 
