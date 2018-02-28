@@ -5,7 +5,6 @@ This page covers all relevant information concerning the course
 **Software Construction 2017-2018** in the Master Software
 Engineering, University of Amsterdam.
 
-
 Primary contact for this course is
 [Vadim Zaytsev](mailto:vadim@grammarware.net).
 
@@ -17,19 +16,19 @@ For details about rooms, see [datanose.nl](https://datanose.nl/#course[61106]).
 
  - Week 06: [Introduction](slides1.pdf), 7 Feb, 9:00–11:00, D1.111
  - Week 07: [Grammars and Parsing](slides2.pdf), 14 Feb, 9:00–11:00, D1.111
- - Week 08: TBA, 21 Feb, 9:00–11:00, D1.111
- - Week 09: TBA, 28 Feb, 9:00–11:00, D1.111
+ - Week 08: [Language Engineering](slides3.pdf), 21 Feb, 9:00–11:00, D1.111
+ - Week 09: [Coding Styles and Conventions](slides4.pdf), 28 Feb, 9:00–11:00, D1.111
  - Week 10: TBA, 7 Mar, 9:00–11:00, D1.111
  - Week 11: TBA, 14 Mar, 9:00–11:00, D1.111
  - Week 12: TBA, 21 Mar, 9:00–11:00, D1.111
  - Week 13: Exam: 28 March, 9:00–12:00, OMHP
  - Week 14: Reexamination: 16 May, 9:00-12:00, D1.113
  
-Starting in Week 7 we'll feature an interactive "hour of code" each
+Starting in Week 7 we will feature an interactive "hour of code" each
 Wednesday at 13:00 where you will present your code an explain
 your design decisions.
 These sessions are meant to help each other and provide constructive feedback.
-It's important to be present at these sessions!
+It is important to be present at these sessions!
 
 
 ##### Deadlines
@@ -70,7 +69,7 @@ Intermediate grades should be > 5.5.
 DevGrade
 --------
 
-Will be given on Thursdays' results. Can lower the grade by 0.2 for crimes against each of the following:
+Will be given on last Tuesdays' results. Can lower the grade by 0.2 for crimes against each of the following:
 
 - the usage of git
 - not answering any questions at the start of the lecture
@@ -95,7 +94,7 @@ The literature for this course consists of:
 The papers will help you improve your programming practice and make up
 most of the material for the final exam. You are expected to be
 familiar with their content and apply the techniques where
-meaningful. If you don't understand the papers, we will not be able to
+meaningful. If you do not understand the papers, we will not be able to
 communicate effectively.
 
 
@@ -115,8 +114,8 @@ Lab assignment: QL & QLS: two DSLs for Questionnaires
 
 The lab assignment is based on the Language Workbench Challenge 2013.
 The goal of this assignment is to build a DSL for questionnaires, called QL.
-QL allows you to define simple forms with conditions and computed values. See
-[this document](QL.pdf) for more information.
+QL allows you to define simple forms with conditions and computed values.
+See [this document](QL.pdf) for more information (in case of conflicts, this page takes precedence).
 Additionally, you will implement a second DSL, called QLS: a styling language, which can be used to rearrange questions, paginate them, introduce sectioning, font styles and widget types. 
 
 *NB*: you will work in teams of 2. Think about how you can effectively collaborate on the assignment. Design is important to work together!
@@ -152,10 +151,11 @@ Requirements on the implementation:
 - QL programs are executed by interpretation, not code generation.
 
 
-Here's a simple questionnaire in QL from the domain of tax filing:
+Here is a simple questionnaire in QL from the domain of tax filing:
 
 ```
-form taxOfficeExample { 
+form taxOfficeExample
+{ 
   "Did you sell a house in 2010?"
     hasSoldHouse: boolean
   "Did you buy a house in 2010?"
@@ -163,7 +163,8 @@ form taxOfficeExample {
   "Did you enter a loan?"
     hasMaintLoan: boolean
     
-  if (hasSoldHouse) {
+  if (hasSoldHouse)
+  {
     "What was the selling price?"
       sellingPrice: money
     "Private debts for the sold house:"
@@ -200,7 +201,7 @@ form taxOfficeExample {
   (page/section), what font-styles etc. are used, and what widget types
   are used.
   
-- As widget types you're supposed to support at least: slider, spinbox (for numbers), text (for numbers and strings), yesno-radios, checkbox, yesno-dropdown (for booleans).
+- As widget types you are supposed to support at least: slider, spinbox (for numbers), text (for numbers and strings), yesno-radios, checkbox, yesno-dropdown (for booleans).
   
 Requirements on the implementation:
 
@@ -209,29 +210,37 @@ Requirements on the implementation:
 - The QL code, and especially, the QL ASTs should be oblivious to the QLS code. Think about how you can achieve that. 
 
   
-Here's an example QLS description for the simple Tax Form:
+Here is an example QLS description for the simple Tax Form:
 
 ```
-stylesheet taxOfficeExample 
-  page Housing {
+stylesheet taxOfficeExample
+{
+  page Housing
+  {
     section "Buying"
+    {
       question hasBoughtHouse  
         widget checkbox 
+    }
     section "Loaning"  
       question hasMaintLoan
   }
 
-  page Selling { 
-    section "Selling" {
+  page Selling
+  { 
+    section "Selling"
+    {
       question hasSoldHouse
         widget radio("Yes", "No") 
-      section "You sold a house" {
+      section "You sold a house"
+      {
         question sellingPrice
           widget spinbox
         question privateDebt
           widget spinbox 
         question valueResidue
-        default money {
+        default money
+        {
           width: 400
           font: "Arial" 
           fontsize: 14
@@ -242,10 +251,11 @@ stylesheet taxOfficeExample
     }
     default boolean widget radio("Yes", "No")
   }  
+}
 
 ```
 
-## Realising the assignment.
+## Realising the assignment
 
 You are encouraged to be creative in terms of libraries or frameworks
 that you use, but be aware of impending bloat and or a huge number of
@@ -255,20 +265,20 @@ As to programming language, you may choose any of the following languages:
 Java, C#, JavaScript, Haskell, Scala, Clojure, Erlang, Smalltalk, Ruby,
 Python, Go, Dart, Swift, Objective-C, F#, or propose your own. Feel free to
 take the opportunity to learn a new language, but be aware that your code will
-be graded as if you're proficient in it and be aware of idiomatic coding
+be graded as if you are proficient in it and be aware of idiomatic coding
 styles. For Java we provide grammar skeleton code for the parser generators
 ANTLR, Jacc and Rats! in the `prototypes` directory of `endless-ql`. These
 grammars are *incomplete*. You may copy one of the skeleton projects and
 complete it by adding the following features:
 
-- Syntax for booleans, string literals. Don't forget to take care of
+- Syntax for booleans, string literals. Do not forget to take care of
   keyword reservation: true and false should be parsed as boolean
   literals, not as identifiers. 
 
 - Add single-line comments (a la Java: //).
 
 - Add syntax productions for forms, questions, computed questions,
-  types (int, bool, and string) and if-then and if-then-else
+  types (int, bool, and string) and **if-then** and **if-then-else**
   statements. Use string literals for question labels. See the LWC'13
   link above for an example questionnaire. 
 
@@ -281,7 +291,7 @@ complete it by adding the following features:
 - Change the start symbol of the parser to parse forms, instead of
   Expressions.
 
-Note: don't be seduced by the provided example code and start
+Note: do not be seduced by the provided example code and start
 copy-pasting grammar rules around. It is important to have a basic
 understanding of the parser technology involved. ANTLR, Rats! and Jacc
 are well-documented on the web. Please use this information to fulfill
@@ -320,7 +330,7 @@ consideration.
  - You know your (standard) libraries and APIs. Do not reimplement
    (simple) functions that can be expected to be in a (standard)
    library. Especially, do not claim that your version is faster,
-   because: it is irrelevant, and, you're probably wrong. Make the
+   because: it is irrelevant, and, you are probably wrong. Make the
    trade-off for reusing a library: do you really need a heavy
    dependency, for some simple functionality?
 
@@ -375,7 +385,7 @@ consideration.
  - You will only present *working code* for grading. Note: working
    code implies your project compiles without errors. Additionally,
    you should use the IDE in the correct way, setup dependencies
-   correctly, provide build-scripts if necessary. If you don't use an
+   correctly, provide build-scripts if necessary. If you do not use an
    IDE, you will use command line build tools or scripts to not repeat
    yourself. 
 
@@ -384,7 +394,7 @@ Please take this advice to heart. It will influence your grade.
 ### Administrativia
 
 Each participant will have to use Github; please make an account if you
-haven't already. Then send [me](mailto:vadim@grammarware.net) a note with your
+have not already. Then send [me](mailto:vadim@grammarware.net) a note with your
 Github user name and team-name so that I can add you as a team member. After
 you have commit access, you can clone the following repository and start
 coding **in your own, private** subdirectory.
@@ -399,7 +409,7 @@ the prototype projects into your private directory.
 `true` first thing when you are setting it all up. Do not **ever** force push.
 
 **IMPORTANT:** You are required to complete the lab assignment with your group
-alone. You're more than welcome to discuss and review with others, but you are
+alone. You are more than welcome to discuss and review with others, but you are
 not allowed to copy code. We will use clone detection tools to detect
 plagiarism.
 
