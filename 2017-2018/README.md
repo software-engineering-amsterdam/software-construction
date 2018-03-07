@@ -18,7 +18,7 @@ For details about rooms, see [datanose.nl](https://datanose.nl/#course[61106]).
  - Week 07: [Grammars and Parsing](slides2.pdf), 14 Feb, 9:00–11:00, D1.111
  - Week 08: [Language Engineering](slides3.pdf), 21 Feb, 9:00–11:00, D1.111
  - Week 09: [Coding Styles and Conventions](slides4.pdf), 28 Feb, 9:00–11:00, D1.111
- - Week 10: TBA, 7 Mar, 9:00–11:00, D1.111
+ - Week 10: [Debugging and Testing](slides5.pdf), 7 Mar, 9:00–11:00, D1.111
  - Week 11: TBA, 14 Mar, 9:00–11:00, D1.111
  - Week 12: TBA, 21 Mar, 9:00–11:00, D1.111
  - Week 13: Exam: 28 March, 9:00–12:00, OMHP
