@@ -10,7 +10,7 @@ Primary contact for this course is
 
 ### Schedule
 
-Lectures and workshops will be from 9:00-11:00 on Wednesdays. Lectures will primarily be given by Vadim Zaytsev. The lab sessions are on Wednesdays from 11:00 to 17:00 and Thursdays from 9:00 to 17:00.
+Lectures and workshops were from 9:00-11:00 on Wednesdays. Lectures were given by Vadim Zaytsev. The lab sessions were on Wednesdays from 11:00 to 17:00 and Thursdays from 9:00 to 17:00.
 
 For details about rooms, see [datanose.nl](https://datanose.nl/#course[61106]).
 
@@ -20,7 +20,7 @@ For details about rooms, see [datanose.nl](https://datanose.nl/#course[61106]).
  - Week 09: [Coding Styles and Conventions](slides4.pdf), 28 Feb, 9:00–11:00, D1.111
  - Week 10: [Debugging and Testing](slides5.pdf), 7 Mar, 9:00–11:00, D1.111
  - Week 11: [Code Quality](slides6.pdf), 14 Mar, 9:00–11:00, D1.111
- - Week 12: TBA, 21 Mar, 9:00–11:00, D1.111
+ - Week 12: [Software Design](slides7.pdf), 21 Mar, 9:00–10:30, D1.111
  - Week 13: Exam: 28 March, 9:00–12:00, OMHP
  - Week 14: Reexamination: 16 May, 9:00-12:00, D1.113
  
@@ -29,7 +29,6 @@ Wednesday at 13:00 where you will present your code an explain
 your design decisions.
 These sessions are meant to help each other and provide constructive feedback.
 It is important to be present at these sessions!
-
 
 ##### Deadlines
 
